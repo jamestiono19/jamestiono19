@@ -14,5 +14,5 @@ Whether I'm orchestrating containerized ETL workflows, training reinforcement le
 `Python` • `SQL` • `PostgreSQL` • `Docker` • `PyTorch` • `Pandas` • `Selenium` • `JavaScript` • `Git`
 
 #### 📫 Connect
-- **Portfolio:** [portfoliojamestiono.netlify.app](https://portfoliojamestiono.netlify.app/)
+- **Portfolio:** [jamestiono-porto.vercel.app](jamestiono-porto.vercel.app)
 - **Email:** jamestiono02@gmail.com
